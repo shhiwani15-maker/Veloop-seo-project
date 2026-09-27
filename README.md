@@ -36,7 +36,7 @@ Google Search, Google Search Central documentation, and manual competitor resear
 
 ## Content Strategy
 
-`04-CONTENT-GAP/` and `05-CONTENT-CALENDAR/` — a 14-topic gap analysis and a 12-article, 3-month calendar (Foundation → Growth → Authority & Expansion).
+`04-CONTENT-GAP/` and `05-CONTENT-CALENDAR/` — a 19-topic gap analysis and a 16-article, 4-month calendar (Foundation → Growth → Authority & Expansion → Brand & Platform Foundation).
 
 ## Technical SEO Findings
 
